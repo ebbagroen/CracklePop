@@ -1,8 +1,5 @@
 ﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
 ################################################################################
 
-/CracklePop/bin/Debug
-/CracklePop/obj/Debug
-/CracklePopTest/bin/Debug
-/CracklePopTest/obj/Debug
+/bin/Debug
